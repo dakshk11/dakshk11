@@ -9,8 +9,8 @@ I'm a high school student interested in software engineering, robotics, AI, fina
 - Learning Python, JavaScript, HTML/CSS, and GitHub workflows
 
 ## Featured Projects
-### Finance AI App
-An AI-assisted finance application that helps users analyze financial data and make better decisions.
+### personal_finance
+One stop website for tax-aware direct indexing, tax-loss harvesting research, portfolio transition planning, 13F manager research, and retirement income analysis
 
 ### Trade Agent
 A Python-based trading assistant project focused on market analysis and automation.
